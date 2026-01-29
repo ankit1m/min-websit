@@ -1,0 +1,155 @@
+ body {
+    background-image:url("b.webp") ;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0%;
+}
+/*start nav code*/
+nav{
+    width: auto;
+    height: auto;
+    text-align: center;
+     
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    border: 1px solid rgb(133, 213, 250);
+    background-color: aqua;
+    margin-top: 5px;
+    border-radius: 10px 0px 10px 0px;
+    
+}
+
+
+#text-logo{
+    font-size: 105px;
+    margin:-16px;
+    padding:-16px;
+    text-align: center;
+    line-height: 1.3;
+}
+#menu{
+     
+    width: 1200px;
+    height: 40px;
+    box-sizing: border-box;
+    display: flex;
+    list-style: none;
+    border: 1px solid rgb(66, 213, 224);
+    padding-top: 3px;
+    gap: 20px;
+    margin-top: 50px;
+  
+    
+    
+    
+}
+#one{
+    padding: 10px 50px;
+    border: 0px solid rgb(102, 202, 241);
+    background: rgba(103, 31, 219, 0.527);
+    border-radius: 20px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+section{
+    width: 400px;
+    height: 180px;
+    box-sizing: border-box;
+    float:right; }
+
+/*end nav code*/
+
+
+
+/*start login page*/
+
+
+
+
+ #login{
+    width: 400px;
+    height:130px;
+   border : 3px solid rgb(110, 214, 240);
+   padding-right: 25px;
+   margin: 10px 30px 0px 0px;
+   float: right;
+     
+}
+legend{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+#login-form{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight:bold;
+    
+}
+
+
+
+#login-button{
+    font-size:16px ;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+
+/*end login page coding*/
+
+/*start registration coding*/
+
+#registration{
+      width: 400px;
+    height:180px;
+   border : 3px solid rgb(110, 214, 240);
+   margin: 10px 30px 0px 0px;
+   float: right;
+}
+#registration-form{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight:bold;
+    
+}
+
+
+/*end registrasion coding*/
+
+/*Start section coding*/
+
+#products{
+
+    width: 99%;
+    height: 1100px;
+    border-width: 2px;
+    border-color: rgba(0, 206, 242,0.2);
+    border-style: solid;
+    margin-right: 7px;
+    margin-left: 7px;
+
+}
+h2{
+    color: white;
+    font-family: initial;
+}
+#select-product{
+    width: 400px;
+    height: auto;
+     
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(19, 201, 242);
+
+}
+
+/*end section coding*/
