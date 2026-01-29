@@ -38,7 +38,7 @@ nav{
     box-sizing: border-box;
     display: flex;
     list-style: none;
-    border: 1px solid rgb(66, 213, 224);
+    border: 0px solid rgb(66, 213, 224);
     padding-top: 3px;
     gap: 20px;
     margin-top: 50px;
@@ -153,3 +153,4 @@ h2{
 }
 
 /*end section coding*/
+
